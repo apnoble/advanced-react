@@ -1,0 +1,9 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "main": "lib/server.js",
+  "license": "MIT",
+  "description": "Advanced React",
+  "repository": "https://github.com/Anoble25/advanced-react.git",
+  "author": "Alex Noble"
+}
